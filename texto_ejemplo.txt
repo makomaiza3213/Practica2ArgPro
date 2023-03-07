@@ -1,3 +1,7 @@
 hola :V
 todo bien?
+<<<<<<< HEAD
 cuando es tu cumpleaños?
+=======
+hace mucho calor
+>>>>>>> b8c3736e1204dfcc7f7be01ed13e20ad6ce0964b
